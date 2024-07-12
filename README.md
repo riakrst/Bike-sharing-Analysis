@@ -2,7 +2,7 @@
 
 ## Setup environment
 ```
-cd submission
+cd Bike-sharing-Analysis
 pipenv install
 pipenv shell
 pip install numpy pandas scipy matplotlib seaborn jupyter streamlit babel
