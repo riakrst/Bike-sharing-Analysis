@@ -1,5 +1,7 @@
 # Bike Sharing Dashboard ✨
 
+Proyek akhir dalam kursus Dicoding "Belajar Analisis Data dengan Python" yang melibatkan keseluruhan proses analisis data pada Dataset Bike Sharing dan pembuatan dashboard sederhana untuk menyajikan hasil analisis data menggunakan Streamlit.
+
 ## Setup environment
 ```
 cd Bike-sharing-Analysis
