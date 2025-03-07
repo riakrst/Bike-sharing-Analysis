@@ -15,3 +15,6 @@ pip install numpy pandas scipy matplotlib seaborn jupyter streamlit babel
 cd dashboard
 streamlit run dashboard.py
 ```
+
+## Dashboard link
+https://riakrst-bike-sharing-analysis.streamlit.app/
